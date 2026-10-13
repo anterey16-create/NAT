@@ -1,0 +1,8 @@
+{
+  "name": "Nativa Ambiental - Gestión RUA Colombia",
+  "description": "Plataforma profesional de gestión y trazabilidad de residuos para empresas en Colombia, con bitácora de operaciones, soporte documental y preparación de reportes ambientales RUA.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
